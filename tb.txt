@@ -1,1 +1,2 @@
 Adding a new file from B machine
+Now making changes from local repo
